@@ -1,6 +1,7 @@
 # Web Scraping Script
 
-This repository contains a Python script for web scraping data from the Prime Minister's Office of India website.
+This repository contains a Python script for web scraping data from the Prime Minister's official website of India  
+
 
 ## Features
 
